@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# build output
+mini_maps
+*.o
+*.out
+
+# local test input files
+input.txt
