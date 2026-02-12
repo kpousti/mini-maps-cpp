@@ -9,11 +9,15 @@ A lightweight graph engine implementing:
 
 ## Build
 
+```sh
 g++ -std=c++17 -O2 -Wall -Wextra main.cpp -o mini_maps
+```
 
 ## Run
 
+```
 ./mini_maps < examples/sample_input.txt
+```
 
 ## Concepts Covered
 
