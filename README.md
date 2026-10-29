@@ -22,6 +22,8 @@ Rather than relying on external libraries, this project focuses on:
 
 The goal is to bridge graph theory with practical, compile-and-run C++ systems code.
 
+> **Personal project**, built in February 2026 while I was a student at UC San Diego. Not affiliated with any employer.
+
 ---
 
 ## Prerequisites
